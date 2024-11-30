@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utsab Dahal</h1>
-<h3 align="center">A passionate web developer and AI Engineer</h3>
+<h3 align="center">A passionate web developer and AI/ML Enthusiast</h3>
 <img align="center" width="400" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utsab345&label=Profile%20views&color=0e75b6&style=flat" alt="utsab345" /> </p>
