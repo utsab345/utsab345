@@ -1,12 +1,30 @@
 <h1 align="center">Hi 👋, I'm Utsab Dahal</h1>
 <h3 align="center">🌐 A passionate web developer and 🤖 AI/ML Enthusiast</h3>
-<img align="center" width="400" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utsab345&label=Profile%20views&color=0e75b6&style=flat" alt="utsab345" /> </p>
+<p align="center">
+  <img src="https://i.imgur.com/DOoR77s.gif" width="400" alt="Tech GIF">
+</p>
 
-- 🌱 I’m currently learning **Python and ML Algorithms** 📘
 
-- 📫 How to reach me: **utsabdahal34@gmail.com** ✉️
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=utsab345&label=Profile%20views&color=0e75b6&style=flat" alt="utsab345" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00CFFD&width=435&lines=Welcome+to+Utsab's+GitHub+Profile!;Web+Developer+%7C+AI%2FML+Enthusiast;Exploring+the+World+of+Tech+🚀" alt="Typing SVG" />
+</p>
+
+---
+
+### 🌱 I’m currently learning  
+- **Python and ML Algorithms** 📘  
+- Exploring **Deep Learning** and **AI-driven tools**.
+
+### 📫 How to reach me  
+- Email: **utsabdahal34@gmail.com** ✉️  
+
+---
 
 <h3 align="left">🌟 Connect with me:</h3>
 <p align="left">
@@ -18,8 +36,9 @@
   </a>
 </p>
 
-<h3 align="left">💻 Languages and Tools:</h3>
+---
 
+<h3 align="left">💻 Languages and Tools:</h3>
 <table>
   <tr>
     <td align="center" width="96">
@@ -87,18 +106,6 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="https://tailwindcss.com/">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="TailwindCSS" />
-      </a>
-      <br>TailwindCSS
-    </td>
-    <td align="center" width="96">
-      <a href="https://fastapi.tiangolo.com/">
-        <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="48" height="48" alt="FastAPI" />
-      </a>
-      <br>FastAPI
-    </td>
-    <td align="center" width="96">
       <a href="https://www.tensorflow.org/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" />
       </a>
@@ -111,14 +118,36 @@
       <br>Flask
     </td>
     <td align="center" width="96">
-      <a href="https://git-scm.com/">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
+  <a href="https://www.mongodb.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB" />
+  </a>
+  <br>MongoDB
+</td>
+
   </tr>
 </table>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=utsab345&show_icons=true&locale=en&layout=compact" alt="utsab345" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utsab345&" alt="utsab345" /></p>
+<h3 align="center">✨ Today's Inspiration ✨</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote">
+</p>
+
+---
+
+<h3 align="center">📊 My GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utsab345&theme=react-dark&bg_color=20232a&hide_border=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=utsab345&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utsab345&theme=dark" alt="GitHub Streak" />
+</p>
+
+---
+
