@@ -37,7 +37,6 @@
 </p>
 
 ---
-
 <h3 align="left">💻 Languages and Tools:</h3>
 <table>
   <tr>
@@ -118,14 +117,30 @@
       <br>Flask
     </td>
     <td align="center" width="96">
-  <a href="https://www.mongodb.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB" />
-  </a>
-  <br>MongoDB
-</td>
+      <a href="https://www.mongodb.com/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="https://git-scm.com/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+      </a>
+      <br>GitHub
+    </td>
+  </tr>
+  <tr>
+  
 
   </tr>
 </table>
+
 
 ---
 
