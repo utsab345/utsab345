@@ -5,8 +5,6 @@
   <img src="https://i.imgur.com/DOoR77s.gif" width="400" alt="Tech GIF">
 </p>
 
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=utsab345&label=Profile%20views&color=0e75b6&style=flat" alt="utsab345" />
 </p>
@@ -21,8 +19,8 @@
 - **Python and ML Algorithms** 📘  
 - Exploring **Deep Learning** and **AI-driven tools**.
 
-### 📫 How to reach me  
-- Email: **utsabdahal34@gmail.com** ✉️  
+### 📧 How to reach me  
+- Email: **utsabdahal34@gmail.com** ✉️
 
 ---
 
@@ -38,109 +36,55 @@
 
 ---
 <h3 align="left">💻 Languages and Tools:</h3>
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.cprogramming.com/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
-      </a>
-      <br>C
-    </td>
-    <td align="center" width="96">
-      <a href="https://isocpp.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
-      </a>
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.w3schools.com/css/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS3" />
-      </a>
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.w3.org/html/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML5" />
-      </a>
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.python.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="https://numpy.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
-      </a>
-      <br>NumPy
-    </td>
-    <td align="center" width="96">
-      <a href="https://pandas.pydata.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
-      </a>
-      <br>Pandas
-    </td>
-    <td align="center" width="96">
-      <a href="https://matplotlib.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />
-      </a>
-      <br>Matplotlib
-    </td>
-    <td align="center" width="96">
-      <a href="https://scikit-learn.org/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn" />
-      </a>
-      <br>Scikit-learn
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.tensorflow.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" />
-      </a>
-      <br>TensorFlow
-    </td>
-    <td align="center" width="96">
-      <a href="https://flask.palletsprojects.com/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="48" height="48" alt="Flask" />
-      </a>
-      <br>Flask
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.mongodb.com/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB" />
-      </a>
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <a href="https://git-scm.com/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="https://github.com/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
-      </a>
-      <br>GitHub
-    </td>
-  </tr>
-  <tr>
-  
 
-  </tr>
-</table>
-
+<p align="center">
+  <!-- Add Attractive Logos -->
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/>
+  </a>
+  <a href="https://www.cplusplus.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50"/>
+  </a>
+  <a href="https://www.learn-c.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="50" height="50"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://simpleicons.org/icons/pandas.svg" alt="Pandas" width="50" height="50"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://simpleicons.org/icons/numpy.svg" alt="NumPy" width="50" height="50"/>
+  </a>
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" height="50"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" height="50"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="50" height="50"/>
+  </a>
+</p>
 
 ---
 
@@ -152,17 +96,12 @@
 ---
 
 <h3 align="center">📊 My GitHub Stats</h3>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=utsab345&theme=react-dark&bg_color=20232a&hide_border=true" alt="Activity Graph" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=utsab345&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utsab345&theme=dark" alt="GitHub Streak" />
-</p>
-
----
 
