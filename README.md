@@ -35,10 +35,10 @@
 </p>
 
 ---
-<h3 align="left">💻 Languages and Tools:</h3>
+### 💻 **Languages and Tools**
 
 <p align="center">
-  <!-- Add Attractive Logos -->
+  <!-- First Row -->
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50"/>
   </a>
@@ -57,9 +57,13 @@
   <a href="https://www.learn-c.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50"/>
   </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/>
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="50" height="50"/>
   </a>
+</p>
+
+<p align="center">
+  <!-- Second Row -->
   <a href="https://scikit-learn.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="50" height="50"/>
   </a>
@@ -72,19 +76,23 @@
   <a href="https://matplotlib.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" height="50"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
-  </a>
   <a href="https://www.tensorflow.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" height="50"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="50" height="50"/>
   </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
+  </a>
 </p>
+
 
 ---
 
