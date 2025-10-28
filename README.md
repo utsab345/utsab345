@@ -111,7 +111,11 @@
 </p>
 
 ---
+<!-- Snake Game Repo View -->
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 <h3 align="center">📊 My GitHub Stats</h3>
 <!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=utsab345&theme=react-dark&bg_color=20232a&hide_border=true" alt="Activity Graph" />
