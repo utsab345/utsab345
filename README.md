@@ -1,124 +1,82 @@
-<h1 align="center">Hi 👋, I'm Utsab Dahal</h1>
-<h3 align="center">🌐 A passionate web developer and 🤖 AI/ML Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://i.imgur.com/DOoR77s.gif" width="400" alt="Tech GIF">
-</p>
+# Hi, I'm Utsab Dahal 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=utsab345&label=Profile%20views&color=0e75b6&style=flat" alt="utsab345" />
-</p>
+### AI/ML Engineer & Full-Stack Developer building RAG systems, agents, and production-ready apps
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00CFFD&width=435&lines=Welcome+to+Utsab's+GitHub+Profile!;Web+Developer+%7C+AI%2FML+Enthusiast;Exploring+the+World+of+Tech+🚀" alt="Typing SVG" />
-</p>
- <h1 align="center"> Hacktoberfest 2025 Badge </h1>
-<p align="center">
-  <img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" alt="Hacktoberfest 2025 Badge" width="450" />
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-utsabdahal03.com.np-0e75b6?style=flat&logo=googlechrome&logoColor=white)](https://utsabdahal03.com.np/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utsab-dahal-46b345207/)
+[![Email](https://img.shields.io/badge/Email-utsabdahal34%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:utsabdahal34@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=utsab345&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/utsab345)
+
+<img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" alt="Hacktoberfest 2025 Badge" width="220" />
+
+</div>
 
 ---
 
-### 🌱 I’m currently learning  
-- **Python and ML Algorithms** 📘  
-- Exploring **Deep Learning** and **AI-driven tools**.
+## About Me
 
-### 📧 How to reach me  
-- Email: **utsabdahal34@gmail.com** ✉️
+I'm a Electronics engineer from Pulchowk Engineering Campus, Nepal, focused on **applied AI/ML** — retrieval-augmented generation, autonomous agents, and deploying models as real products rather than notebooks. I like taking an idea from a Jupyter cell to a containerized API.
 
----
-
-<h3 align="left">🌟 Connect with me:</h3>
-<p align="left">
-  <a href="https://fb.com/dahalkancho.94" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/utsab-dahal-46b345207/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
----
-### 💻 **Languages and Tools**
-
-<p align="center">
-  <!-- First Row -->
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/>
-  </a>
-  <a href="https://www.cplusplus.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50"/>
-  </a>
-  <a href="https://www.learn-c.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="50" height="50"/>
-  </a>
-</p>
-
-<p align="center">
-  <!-- Second Row -->
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="50" height="50"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://simpleicons.org/icons/pandas.svg" alt="Pandas" width="50" height="50"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://simpleicons.org/icons/numpy.svg" alt="NumPy" width="50" height="50"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" height="50"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" height="50"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="50" height="50"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
-  </a>
-  <a href="https://www.langchain.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=langchain" alt="LangChain" width="50" height="50"/>
-  </a>
-  <a href="https://www.langgraph.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=graph" alt="LangGraph" width="50" height="50"/>
-  </a>
-</p>
+- 🔭 Currently building **RAG pipelines and LLM agents** with LangChain / LangGraph
+- 🌱 Learning **deep learning architectures** and **production ML deployment** (Docker, AWS)
+- 💬 Ask me about Python, computer vision, or NLP/transformers
+- ⚡ Fun fact: I built a GPT-2 model trained on Nepali text
 
 ---
 
-<h3 align="center">✨ Today's Inspiration ✨</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote">
-</p>
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **[Medical RAG Chatbot](https://github.com/utsab345/Medical-RAG-Chatbot)** | Retrieval-augmented Q&A system over medical documents | Python, RAG, LangChain |
+| **[DeepFake Detection Agent](https://github.com/utsab345/DeepFake-Detection-Agent)** | Agent-based pipeline for detecting manipulated media | Python, Agents, ML |
+| **[Nepali GPT-2](https://github.com/utsab345/Nepali_GPT2)** | GPT-2 language model trained from scratch on Nepali text | Python, Transformers, PyTorch |
+| **[CodePilot](https://github.com/utsab345/CodePilot)** | AI-assisted coding tool | Python |
+| **[FastAPI 12-Factor App](https://github.com/utsab345/fastapi-12factor-app)** | Production-style FastAPI service following 12-factor principles | Python, FastAPI, Docker |
+| **[Blog Generation](https://github.com/utsab345/BlogGeneration)** | LLM-powered blog content generator | Python, LLMs |
+| **[Devanagari Character Recognizer](https://github.com/utsab345/-Devanagari-Character-Recognizer-using-C-)** | Handwritten Devanagari character recognition | C++ |
+| **[Trader Behavior & Market Sentiment](https://github.com/utsab345/Trader-Behavior-Market-Sentiment-Analysis)** | Sentiment analysis applied to trading behavior | Jupyter, Python |
+
+*See [all repositories →](https://github.com/utsab345?tab=repositories)*
 
 ---
-<!-- Snake Game Repo View -->
 
+## 🛠️ Tech Stack
 
-<h3 align="center">📊 My GitHub Stats</h3>
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utsab345&theme=react-dark&bg_color=20232a&hide_border=true" alt="Activity Graph" />
-</p> -->
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,html,css" alt="languages" />
+
+**AI / ML / LLMOps**
+
+`Transformers` · `LangChain` · `LangGraph` · `RAG` · `AI Agents` · `Scikit-Learn` · `TensorFlow` · `PyTorch` · `Pandas` · `NumPy` · `Matplotlib`
+
+**Backend & Infra**
+
+<img src="https://skillicons.dev/icons?i=flask,fastapi,mongodb,docker,aws,git,github" alt="backend and infra" />
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=utsab345&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsab345&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165"/>
+
+</div>
+
+---
+
+## 🌟 Connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=utsab345&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+  <a href="https://www.linkedin.com/in/utsab-dahal-46b345207/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
+  <a href="https://fb.com/dahalkancho.94"><img src="https://skillicons.dev/icons?i=fb" alt="Facebook"/></a>
 </p>
+
+<div align="center">
+<sub>Open to internship / entry-level AI-ML and backend roles — feel free to reach out 🚀</sub>
+</div>
