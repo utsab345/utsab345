@@ -31,14 +31,14 @@ AI/ML engineer and backend developer based in Nepal. I build practical machine l
 I contribute fixes, tests, and documentation to open source projects. My development workflow emphasizes clear APIs, reproducible debugging, focused tests, and maintainable production code.
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utsab345&bg_color=ffffff&color=0e75b6&line=0e75b6&point=24292f&area=true&hide_border=true" alt="GitHub contribution activity" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utsab345&theme=github" alt="GitHub contribution activity" />
 </p>
 
 ## GitHub statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utsab345&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Utsab's GitHub statistics" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsab345&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=utsab345&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Utsab's GitHub statistics" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=utsab345&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages" height="165" />
 </p>
 
 ## Development stack
