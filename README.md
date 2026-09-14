@@ -37,8 +37,8 @@ I contribute fixes, tests, and documentation to open source projects. My develop
 ## GitHub statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=utsab345&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Utsab's GitHub statistics" height="165" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=utsab345&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=utsab345&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Utsab's GitHub statistics" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=utsab345&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages" height="165" />
 </p>
 
 ## Development stack
