@@ -1,5 +1,9 @@
 # Utsab Dahal
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=0E75B6&center=true&vCenter=true&width=760&lines=AI%2FML+Engineer;Backend+Developer;Building+RAG+Systems+and+AI+Agents" alt="AI/ML Engineer, Backend Developer, building RAG systems and AI agents" />
+</p>
+
 AI/ML engineer and backend developer based in Nepal. I build practical machine learning systems, retrieval-augmented applications, and reliable APIs that turn research ideas into usable products.
 
 [Portfolio](https://utsabdahal03.com.np/) · [LinkedIn](https://www.linkedin.com/in/utsab-dahal-46b345207/) · [Email](mailto:utsabdahal34@gmail.com)
