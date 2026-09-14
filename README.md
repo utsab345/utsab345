@@ -2,7 +2,7 @@
 
 AI/ML engineer and backend developer based in Nepal. I build practical machine learning systems, retrieval-augmented applications, and reliable APIs that turn research ideas into usable products.
 
-[Portfolio](https://utsabdahal03.com.np/) · [LinkedIn](https://www.linkedin.com/in/utsab-dahal-46b345207/) · [Email](mailto:utsab345@gmail.com)
+[Portfolio](https://utsabdahal03.com.np/) · [LinkedIn](https://www.linkedin.com/in/utsab-dahal-46b345207/) · [Email](mailto:utsabdahal34@gmail.com)
 
 ## Focus areas
 
