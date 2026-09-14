@@ -12,6 +12,7 @@ AI/ML engineer and backend developer based in Nepal. I build practical machine l
 
 - Retrieval-augmented generation and LLM applications
 - AI agents and workflow automation
+- Reinforcement learning and world-model research
 - Natural language processing and computer vision
 - Python backend development with FastAPI
 - Containerized services and production ML deployment
@@ -20,6 +21,7 @@ AI/ML engineer and backend developer based in Nepal. I build practical machine l
 
 | Project | What it demonstrates |
 | --- | --- |
+| [Digital Liver World Model](https://github.com/utsab345/DigitalLiverWorldModel) | JEPA-style world model for sequential clinical-state prediction |
 | [Medical RAG Chatbot](https://github.com/utsab345/Medical-RAG-Chatbot) | Document retrieval and question answering over medical content |
 | [DeepFake Detection Agent](https://github.com/utsab345/DeepFake-Detection-Agent) | An agent workflow for manipulated-media detection |
 | [Nepali GPT-2](https://github.com/utsab345/Nepali_GPT2) | Language model training for Nepali text |
@@ -57,6 +59,11 @@ I contribute fixes, tests, and documentation to open source projects. My develop
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/)
 [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)](https://www.langchain.com/)
+[![JEPA](https://img.shields.io/badge/JEPA--style%20world%20models-5E35B1?style=flat)](https://github.com/utsab345/DigitalLiverWorldModel)
+[![Reinforcement learning](https://img.shields.io/badge/Reinforcement%20learning-FF6F00?style=flat)](https://en.wikipedia.org/wiki/Reinforcement_learning)
+[![GNNs](https://img.shields.io/badge/Graph%20neural%20networks-2E7D32?style=flat)](https://en.wikipedia.org/wiki/Graph_neural_network)
+[![GRU](https://img.shields.io/badge/GRU%20sequence%20models-1565C0?style=flat)](https://en.wikipedia.org/wiki/Gated_recurrent_unit)
+[![Integrated Gradients](https://img.shields.io/badge/Integrated%20Gradients-6A1B9A?style=flat)](https://captum.ai/docs/extension/integrated_gradients)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
