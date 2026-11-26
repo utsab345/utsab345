@@ -1,89 +1,217 @@
-# Utsab Dahal
+# Hi, I'm Utsab Dahal 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2600&pause=850&color=0E75B6&center=true&vCenter=true&width=760&lines=AI%2FML+Engineer;Backend+Developer;Open+Source+Contributor;Debugging+Systems+That+Matter;Building+RAG+Systems+and+AI+Agents" alt="AI/ML Engineer, Backend Developer, open source contributor, and debugger" />
+### AI/ML Engineer | LLM Engineering | AI Agents | Research & Open Source
+
+I build intelligent systems, train language models, develop AI agents, and explore embodied intelligence. I enjoy turning research ideas into practical, reliable software.
+
+📍 Nepal | 🌍 Open to Remote AI/ML Engineering, Research and Internship Opportunities
+
+<p align="left">
+  <a href="https://utsabdahal03.com.np"><img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/utsab-dahal-46b345207/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:utsabdahal34@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <!-- <a href="https://www.kaggle.com/utsabdahal03"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a> -->
 </p>
 
-AI/ML engineer and backend developer based in Nepal. I build practical machine learning systems, retrieval-augmented applications, and reliable APIs that turn research ideas into usable products.
+---
 
-[Portfolio](https://utsabdahal03.com.np/) · [LinkedIn](https://www.linkedin.com/in/utsab-dahal-46b345207/) · [Email](mailto:utsabdahal34@gmail.com)
+## 🚀 What I Work On
 
-## Focus areas
+- 🧠 **LLM Engineering:** Language model pretraining, fine-tuning, RAG, evaluation and inference.
+- 🤖 **AI Agents:** Agentic workflows, tool use, orchestration and behavioral evaluation.
+- 🦾 **Embodied AI:** Reinforcement learning, visual navigation and world models.
+- 🔬 **Applied Research:** NLP, computer vision, multimodal learning and reproducible experiments.
+- ⚙️ **Backend Engineering:** Python, FastAPI, APIs, Docker and scalable application development.
 
-- Retrieval-augmented generation and LLM applications
-- AI agents and workflow automation
-- Reinforcement learning and world-model research
-- Natural language processing and computer vision
-- Python backend development with FastAPI
-- Containerized services and production ML deployment
+## 🏆 Featured Projects
 
-## Selected work
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Project | What it demonstrates |
-| --- | --- |
-| [Digital Liver World Model](https://github.com/utsab345/DigitalLiverWorldModel) | JEPA-style world model for sequential clinical-state prediction |
-| [Medical RAG Chatbot](https://github.com/utsab345/Medical-RAG-Chatbot) | Document retrieval and question answering over medical content |
-| [DeepFake Detection Agent](https://github.com/utsab345/DeepFake-Detection-Agent) | An agent workflow for manipulated-media detection |
-| [Nepali GPT-2](https://github.com/utsab345/Nepali_GPT2) | Language model training for Nepali text |
-| [CodePilot](https://github.com/utsab345/CodePilot) | AI-assisted software development |
-| [FastAPI 12-Factor App](https://github.com/utsab345/fastapi-12factor-app) | A containerized FastAPI service structured for deployment |
+### 🧠 NepaliGPT
 
-## Open source
+**A GPT-style language model trained from scratch on Nepali text.**
 
-I contribute fixes, tests, and documentation to open source projects. My development workflow emphasizes clear APIs, reproducible debugging, focused tests, and maintainable production code.
+- 41M+ training tokens
+- 33.66M parameters
+- Custom 16K SentencePiece BPE tokenizer
+- Best validation loss: 2.996
+- Perplexity: 14.47
+- Trained on NVIDIA T4
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utsab345&theme=github" alt="GitHub contribution activity" />
+**Stack:** Python, PyTorch, NLP, Transformers
+
+<a href="https://github.com/utsab345/Nepali_GPT2">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Stepfork
+
+**Local-first behavioral regression testing for AI agents.**
+
+- Record and replay agent executions
+- Detect behavioral regressions
+- Export reproducible pytest tests
+- Offline-first architecture
+- Framework-independent design
+
+**Stack:** Python, Pytest, AI Agents, Testing
+
+<a href="https://github.com/utsab345/stepfork">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🦾 See2Seek
+
+**Embodied AI navigation using visual foundation models and reinforcement learning.**
+
+- DINOv2 and CLIP representations
+- Recurrent PPO
+- Spatial memory
+- Zero-shot object navigation
+- RoboTHOR / AI2-THOR evaluation
+
+**Stack:** Python, PyTorch, RL, Computer Vision
+
+<a href="https://github.com/utsab345/see2seek">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 DocsGuide
+
+**Bilingual AI assistant for Nepali government documentation.**
+
+- Nepali and English support
+- Hybrid dense and BM25 retrieval
+- Reranking and contextual generation
+- Agentic workflow orchestration
+- FastAPI backend
+
+**Stack:** FastAPI, LangGraph, Pinecone, Gemini, Next.js
+
+<a href="https://github.com/utsab345/DocsGuide">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,sql" />
 </p>
 
-## GitHub statistics
+### AI / Machine Learning
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=utsab345&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Utsab's GitHub statistics" height="165" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=utsab345&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages" height="165" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 </p>
 
-## Development stack
+### Backend, Databases & Infrastructure
 
-### Languages and scripting
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,docker,aws,linux,git,github,postgres,mongodb,redis" />
+</p>
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)](https://isocpp.org/)
-[![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+### Tools & Platforms
 
-### AI, data, and application libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,githubactions,bash,postman" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
+</p>
 
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/)
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)](https://www.langchain.com/)
-[![JEPA](https://img.shields.io/badge/JEPA--style%20world%20models-5E35B1?style=flat)](https://github.com/utsab345/DigitalLiverWorldModel)
-[![Reinforcement learning](https://img.shields.io/badge/Reinforcement%20learning-FF6F00?style=flat)](https://en.wikipedia.org/wiki/Reinforcement_learning)
-[![GNNs](https://img.shields.io/badge/Graph%20neural%20networks-2E7D32?style=flat)](https://en.wikipedia.org/wiki/Graph_neural_network)
-[![GRU](https://img.shields.io/badge/GRU%20sequence%20models-1565C0?style=flat)](https://en.wikipedia.org/wiki/Gated_recurrent_unit)
-[![Integrated Gradients](https://img.shields.io/badge/Integrated%20Gradients-6A1B9A?style=flat)](https://captum.ai/docs/extension/integrated_gradients)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
+---
 
-### Backend, tools, and environments
+## 🌍 Open Source Contributions
 
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+I enjoy contributing to open-source projects through implementation, bug fixes, testing and code improvements.
 
-## Currently learning
+<p align="left">
+  <a href="https://github.com/qodo-ai/pr-agent"><img src="https://img.shields.io/badge/PR--Agent-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/keras-team/keras"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" /></a>
+  <a href="https://github.com/pandas-dev/pandas"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a>
+  <a href="https://github.com/sympy/sympy"><img src="https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="https://github.com/scikit-learn/scikit-learn"><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /></a>
+</p>
 
-Deep learning systems, evaluation for LLM applications, and dependable ML deployment.
+📌 [Explore my open-source contributions](https://github.com/utsab345?tab=overview)
 
-## Education
+---
 
-Electronics and Communication Engineering, Pulchowk Engineering Campus, Nepal.
+## 🏅 Certifications & Programs
 
-I am open to internships, entry-level AI/ML roles, backend engineering opportunities, and thoughtful open-source collaboration.
+- 🎓 AWS Certified Solutions Architect Associate (SAA-C03)
+- 🚀 Fusemachines AI Fellowship
+- 📱 Samsung Innovation Campus
+- 🧠 Deep Learning Specialization by DeepLearning.AI
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=utsab345&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsab345&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=utsab345&theme=tokyonight&hide_border=true" />
+</p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=utsab345&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🎓 Certifications & Learning
+
+- AWS Solutions Architect Associate
+- Deep Learning Specialization
+- Fusemachines AI Fellowship
+- Samsung Innovation Campus
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on meaningful AI projects, applied research, and open-source software.
+
+If you're building something interesting in AI/ML, LLM systems, or intelligent agents, let's connect!
+
+<p align="left">
+  <a href="mailto:utsabdahal34@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/utsab-dahal-46b345207/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://utsabdahal03.com.np"><img src="https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=utsab345&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <i>Building, learning, researching, and contributing to open source.</i>
+</p>
