@@ -2,7 +2,7 @@
 
 ### AI/ML Engineer | LLM Engineering | AI Agents | Research & Open Source
 
-I build intelligent systems, train language models, develop AI agents, and explore embodied intelligence. I enjoy turning research ideas into practical, reliable software.
+I build intelligent systems, train language models, develop autonomous agents, and explore embodied intelligence. My interests lie at the intersection of machine learning research and practical engineering, with a focus on building reliable, reproducible AI systems.
 
 📍 Nepal | 🌍 Open to Remote AI/ML Engineering, Research and Internship Opportunities
 
@@ -168,33 +168,20 @@ I enjoy contributing to open-source projects through implementation, bug fixes, 
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=utsab345&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsab345&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=utsab345&show_icons=true&hide_border=true&theme=transparent" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsab345&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=utsab345&theme=tokyonight&hide_border=true" />
-</p>
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=utsab345&theme=tokyo-night&hide_border=true&area=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=utsab345&theme=github-compact&hide_border=true&area=true" />
 </p>
 
 ---
 
-## 🎓 Certifications & Learning
 
-- AWS Solutions Architect Associate
-- Deep Learning Specialization
-- Fusemachines AI Fellowship
-- Samsung Innovation Campus
-
----
 
 ## 🤝 Let's Connect
 
